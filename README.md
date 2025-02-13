@@ -1,6 +1,6 @@
 # CBS MiL Draft Summary
 
-Google Gemini AI summary of what the code does!
+Google Gemini AI summary of what the code in code.gs does!
 
 This Google Apps Script code manages a draft, likely for a fantasy sports league, within a Google Spreadsheet. Let's break down its functionality:
 
