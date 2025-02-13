@@ -1,4 +1,4 @@
-/** @OnlyCurrentDoc */
+/** @OnlyCurrentDoc */ // Limits authorization request to this document only
 
 // Confirm the pick
 function confirmPick() {
