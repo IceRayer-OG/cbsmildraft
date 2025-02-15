@@ -14,7 +14,7 @@ __Pick Recording:__ When a valid pick is made, it's recorded in a "Pick History"
 
 __Email Notification:__ Optionally, the script can send an email notification after a pick is made.
 
-"On the Clock" and "On Deck" Tracking: The script manages which pick is currently "on the clock" (the current turn) and who is "on deck" (the next turn).
+__"On the Clock" and "On Deck" Tracking:__ The script manages which pick is currently "on the clock" (the current turn) and who is "on deck" (the next turn).
 
 # Code Breakdown:
 
