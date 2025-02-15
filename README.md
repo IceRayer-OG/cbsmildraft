@@ -25,7 +25,8 @@ Checks if a player has been selected (checkConfirmAllowed()).
 Records the pick (setPicks()).
 Sends an email notification if enabled (checkSendEmail() and sendEmail()).
 Displays success/error messages using showAlert().
-showAlert(title, message): Displays an alert dialog in the spreadsheet.
+
+__showAlert(title, message):__ Displays an alert dialog in the spreadsheet.
 
 __checkDraftStarted():__ Reads a value from the "Settings" sheet to determine if the draft has started.
 
