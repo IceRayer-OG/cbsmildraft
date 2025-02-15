@@ -172,7 +172,7 @@ function onEdit(e) {
 
     // Show an error if the pick isn't allowed and clear the selection
     if(!isPickAllowed(pickEdited)) {
-      showAlert("It's not your Turn", "Uh uh uh, You didn't say the magic word!");
+      showAlert("It's not your Turn", "Ah ah ah, You didn't say the magic word!");
       selectionSheet.getRange(row,4,1,1).clear();
       return;
     }
